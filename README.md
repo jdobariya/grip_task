@@ -1,2 +1,2 @@
 # grip_task
-Internship Tasks
+ML Tasks
